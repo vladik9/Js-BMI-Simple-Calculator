@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: cadetblue;
+}
+input {
+  background-color: antiquewhite;
+}
+button {
+  position: relative;
+  top: 40px;
+  right: 240px;
+}
+button:hover {
+  background-color: bisque;
+}
