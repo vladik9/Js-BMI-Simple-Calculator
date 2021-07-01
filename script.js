@@ -1,3 +1,8 @@
+// all run on nodejs: sudo npm install nodejs
+// step 1: nmp init
+// step 2: npm install express
+// step 3: npm install body-parse
+// optional: npm install sudo npm install  -g nodemon
 //server express
 const express = require("express");
 // method to acces the element on the server
